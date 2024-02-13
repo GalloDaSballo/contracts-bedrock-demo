@@ -6,7 +6,7 @@
 
 # Compilation settings
 src = 'src'
-out = 'forge-artifacts'
+out = 'out'
 script = 'scripts'
 optimizer = true
 optimizer_runs = 999999
